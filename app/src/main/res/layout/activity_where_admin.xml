@@ -22,7 +22,7 @@
         <ImageView
             android:layout_width="@dimen/_50sdp"
             android:layout_height="@dimen/_50sdp"
-            android:background="@drawable/userlist"
+            android:background="@drawable/ic_baseline_person_24"
             android:layout_gravity="center"
             android:id="@+id/icontouser"/>
 
